@@ -1,4 +1,4 @@
-SampleApp::Application.routes.draw do
+SpampleApp::Application.routes.draw do
 
 
   match '/contact', :to => 'pages#contact'
